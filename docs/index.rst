@@ -62,6 +62,7 @@ Welcome to Spinning Up in Deep RL!
 
    etc/acknowledgements
    etc/author
+   bugcrowd/M1S0
 
 Indices and tables
 ==================
