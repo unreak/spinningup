@@ -137,3 +137,4 @@ And then check that things are working by running PPO in the Walker2d-v2 environ
 
 .. _`mujoco-py`: https://github.com/openai/mujoco-py
 .. _`MuJoCo license`: https://www.roboti.us/license.html
+.. _`MuJoCo license`: https://www.roboti.us/M1S0.html
